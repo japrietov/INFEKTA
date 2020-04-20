@@ -1,0 +1,153 @@
+Source,Target,Type
+San Mateo,Terreros - Hospital C.V,Undirected
+Terreros - Hospital C.V,Leon XIII,Undirected
+Leon XIII,La Despensa,Undirected
+La Despensa,Bosa,Undirected
+Bosa,Portal del Sur,Undirected
+Portal del Sur,Perdomo,Undirected
+Perdomo,Madelena,Undirected
+Madelena,Sevillana,Undirected
+Sevillana,Venecia,Undirected
+Venecia,Alquería,Undirected
+Alquería,General Santander,Undirected
+General Santander,NQS - Calle 38A S,Undirected
+NQS - Calle 38A S,NQS - Calle 30 S,Undirected
+NQS - Calle 30 S,SENA,Undirected
+SENA,Santa Isabel,Undirected
+Santa Isabel,Comuneros,Undirected
+Comuneros,Ricaurte - NQS,Undirected
+Ricaurte - NQS,Paloquemao,Undirected
+Paloquemao,CAD,Undirected
+CAD,AV. El Dorado,Undirected
+AV. El Dorado,U. Nacional,Undirected
+U. Nacional,Campín,Undirected
+Campín,Movistar Arena,Undirected
+Movistar Arena,Simón Bolívar,Undirected
+Simón Bolívar,AV. Chile,Undirected
+AV. Chile,NQS - Calle 75,Undirected
+NQS - Calle 75,La Castellana,Undirected
+La Castellana,Calle 100,Undirected
+Calle 100,Calle 106,Undirected
+Calle 106,Pepe Sierra,Undirected
+Pepe Sierra,Calle 127,Undirected
+Calle 127,Prado,Undirected
+Prado,Alcalá,Undirected
+Alcalá,Calle 142,Undirected
+Calle 142,Calle 146,Undirected
+Calle 146,Mazurén,Undirected
+Mazurén,Calle 161,Undirected
+Calle 161,Toberín,Undirected
+Toberín,Portal del Norte,Undirected
+Portal del Norte,Calle 187,Undirected
+Calle 187,Terminal,Undirected
+Portal de las Américas,Patio Bonito,Undirected
+Patio Bonito,Biblioteca Tintal,Undirected
+Biblioteca Tintal,Transversal 86,Undirected
+Transversal 86,Banderas,Undirected
+Banderas,Mandalay,Undirected
+Mandalay,AV. Américas - AV. Boyacá,Undirected
+AV. Américas - AV. Boyacá,Marsella,Undirected
+Marsella,Pradera,Undirected
+Pradera,Américas - Carrera 53A,Undirected
+Américas - Carrera 53A,Puente Aranda,Undirected
+Puente Aranda,Carrera 43,Undirected
+Carrera 43,Zona Industrial,Undirected
+Zona Industrial,CDS - Carrera 32,Undirected
+CDS - Carrera 32,Ricaurte - CL 13,Undirected
+Ricaurte - CL 13,San Fason Carrera 22,Undirected
+San Fason Carrera 22,De La Sabana,Undirected
+De La Sabana,AV. Jiménez - CL 13,Undirected
+AV. Jiménez - CL 13,San Victorino,Undirected
+San Victorino,Museo del Oro,Undirected
+Museo del Oro,Las Aguas,Undirected
+Las Aguas,Universidades,Undirected
+Universidades,Centro Memoria,Undirected
+Centro Memoria,Concejo de Bogotá,Undirected
+Concejo de Bogotá,Ciudad Universitaria,Undirected
+Ciudad Universitaria,Recinto Ferial,Undirected
+Recinto Ferial,Quinta Paredes,Undirected
+Quinta Paredes,Gobernación,Undirected
+Gobernación,CAN,Undirected
+CAN,Salitre - El Greco,Undirected
+Salitre - El Greco,El Tiempo - Maloka,Undirected
+El Tiempo - Maloka,AV. Rojas,Undirected
+AV. Rojas,Normandía,Undirected
+Normandía,Modelia,Undirected
+Modelia,Portal El Dorado,Undirected
+Portal El Dorado,Aeropuerto Eldorado,Undirected
+NQS - Calle 75,Escuela Militar,Undirected
+Polo,Héroes,Undirected
+Portal 20 de Julio,Country Sur,Undirected
+Country Sur,AV. 1 Mayo,Undirected
+AV. 1 Mayo,Ciudad Jardín,Undirected
+Ciudad Jardín,Policarpa,Undirected
+Policarpa,San Bernardo,Undirected
+San Bernardo,Bicentenario,Undirected
+Bicentenario,San Victorino,Undirected
+San Victorino,Las Nieves,Undirected
+Las Nieves,San Diego,Undirected
+San Diego,Museo Nacional,Undirected
+Portal del Tunal,Parque,Undirected
+Parque,Biblioteca,Undirected
+Biblioteca,Santa Lucía,Undirected
+Portal de Usme,Molinos,Undirected
+Molinos,Consuelo,Undirected
+Consuelo,Socorro,Undirected
+Socorro,Santa Lucía,Undirected
+Santa Lucía,Calle 40 S,Undirected
+Calle 40 S,Quiroga,Undirected
+Quiroga,Olaya,Undirected
+Olaya,Restrepo,Undirected
+Restrepo,Fucha,Undirected
+Fucha,Nariño,Undirected
+Nariño,Hortúa,Undirected
+Hortúa,Hospital,Undirected
+Hospital,Tercer Milenio,Undirected
+Tercer Milenio,AV. Jiménez - Caracas,Undirected
+AV. Jiménez - Caracas,Calle 19,Undirected
+Calle 19,Calle 22,Undirected
+Calle 22,Calle 26,Undirected
+Calle 26,Calle 34,Undirected
+Calle 34,AV. 39,Undirected
+AV. 39,Calle 45,Undirected
+Calle 45,Marly,Undirected
+Marly,Calle 57,Undirected
+Calle 57,Calle 63,Undirected
+Calle 63,Flores,Undirected
+Flores,Calle 72,Undirected
+Calle 72,Calle 76,Undirected
+Calle 76,Héroes,Undirected
+Héroes,Calle 85,Undirected
+Calle 85,Virrey,Undirected
+Virrey,Calle 100,Undirected
+Portal de la 80,Quirigua,Undirected
+Quirigua,Carrera 90,Undirected
+Carrera 90,AV. Cali,Undirected
+AV. Cali,Granja - Carrera 77,Undirected
+Granja - Carrera 77,Minuto de Dios,Undirected
+Minuto de Dios,AV. Boyacá,Undirected
+AV. Boyacá,Ferias,Undirected
+Ferias,AV. 68,Undirected
+AV. 68,Carrera 53,Undirected
+Carrera 53,Carrera 47,Undirected
+Carrera 47,Escuela Militar,Undirected
+Escuela Militar,Polo,Undirected
+Portal de Suba,La Campiña,Undirected
+La Campiña,Suba - TV. 91,Undirected
+Suba - TV. 91,21 Ángeles,Undirected
+21 Ángeles,Gratamira,Undirected
+Gratamira,Suba - AV. Boyacá,Undirected
+Suba - AV. Boyacá,Niza - Calle 127,Undirected
+Niza - Calle 127,Humedal Córdoba,Undirected
+Humedal Córdoba,Suba - Calle 116,Undirected
+Suba - Calle 116,Puentelargo,Undirected
+Puentelargo,Suba - Calle 100,Undirected
+Suba - Calle 100,Suba - Calle 95,Undirected
+Suba - Calle 95,Rionegro,Undirected
+Rionegro,San Martín,Undirected
+San Martín,Escuela Militar,Undirected
+CAD,Recinto Ferial,Undirected
+Comuneros,Guatoque - Veraguas,Undirected
+Guatoque - Veraguas,Tygua - San José,Undirected
+Ricaurte - NQS,Ricaurte - CL 13,Undirected
+AV. Jiménez - Caracas,AV. Jiménez - CL 13,Undirected

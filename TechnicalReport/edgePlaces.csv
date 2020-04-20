@@ -1,0 +1,619 @@
+Source,Target,Type
+House1,Calle 142,Undirected
+House2,Toberín,Undirected
+House3,Terminal,Undirected
+House4,Pepe Sierra,Undirected
+House5,Pepe Sierra,Undirected
+House6,Terminal,Undirected
+House7,Mazurén,Undirected
+House8,Prado,Undirected
+House9,Terminal,Undirected
+House10,Prado,Undirected
+House11,Terminal,Undirected
+House12,Calle 161,Undirected
+House13,Toberín,Undirected
+House14,Toberín,Undirected
+House15,Terminal,Undirected
+House16,Calle 106,Undirected
+House17,Mazurén,Undirected
+House18,Portal del Norte,Undirected
+House19,Toberín,Undirected
+House20,Héroes,Undirected
+House21,Calle 76,Undirected
+House22,Héroes,Undirected
+House23,Calle 57,Undirected
+House24,Calle 57,Undirected
+House25,Calle 72,Undirected
+House26,Universidades,Undirected
+House27,Universidades,Undirected
+House28,Universidades,Undirected
+House29,Universidades,Undirected
+House30,Universidades,Undirected
+House31,Portal 20 de Julio,Undirected
+House32,Portal 20 de Julio,Undirected
+House33,Portal 20 de Julio,Undirected
+House34,Portal 20 de Julio,Undirected
+House35,Policarpa,Undirected
+House36,Policarpa,Undirected
+House37,Ciudad Jardín,Undirected
+House38,Portal de Usme,Undirected
+House39,Ciudad Jardín,Undirected
+House40,Portal 20 de Julio,Undirected
+House41,Portal de Usme,Undirected
+House42,Portal 20 de Julio,Undirected
+House43,Portal 20 de Julio,Undirected
+House44,Ciudad Jardín,Undirected
+House45,Portal 20 de Julio,Undirected
+House46,Portal 20 de Julio,Undirected
+House47,Portal de Usme,Undirected
+House48,Portal de Usme,Undirected
+House49,Portal de Usme,Undirected
+House50,Portal de Usme,Undirected
+House51,Portal de Usme,Undirected
+House52,Portal de Usme,Undirected
+House53,Portal de Usme,Undirected
+House54,Portal de Usme,Undirected
+House55,Portal de Usme,Undirected
+House56,Portal de Usme,Undirected
+House57,Portal de Usme,Undirected
+House58,Portal de Usme,Undirected
+House59,Portal de Usme,Undirected
+House60,Portal de Usme,Undirected
+House61,Portal de Usme,Undirected
+House62,Portal de Usme,Undirected
+House63,Portal de Usme,Undirected
+House64,Venecia,Undirected
+House65,Portal del Tunal,Undirected
+House66,Calle 40 S,Undirected
+House67,Sevillana,Undirected
+House68,Venecia,Undirected
+House69,Parque,Undirected
+House70,Sevillana,Undirected
+House71,Molinos,Undirected
+House72,Portal de las Américas,Undirected
+House73,La Despensa,Undirected
+House74,Bosa,Undirected
+House75,La Despensa,Undirected
+House76,Portal de las Américas,Undirected
+House77,Bosa,Undirected
+House78,Portal de las Américas,Undirected
+House79,La Despensa,Undirected
+House80,Terreros - Hospital C.V,Undirected
+House81,La Despensa,Undirected
+House82,Portal de las Américas,Undirected
+House83,La Despensa,Undirected
+House84,Portal de las Américas,Undirected
+House85,Portal de las Américas,Undirected
+House86,Portal de las Américas,Undirected
+House87,Portal de las Américas,Undirected
+House88,Bosa,Undirected
+House89,La Despensa,Undirected
+House90,La Despensa,Undirected
+House91,Portal de las Américas,Undirected
+House92,La Despensa,Undirected
+House93,Portal de las Américas,Undirected
+House94,Portal de las Américas,Undirected
+House95,Portal de las Américas,Undirected
+House96,Portal de las Américas,Undirected
+House97,Patio Bonito,Undirected
+House98,Banderas,Undirected
+House99,Patio Bonito,Undirected
+House100,Patio Bonito,Undirected
+House101,Portal de las Américas,Undirected
+House102,Mandalay,Undirected
+House103,Banderas,Undirected
+House104,Patio Bonito,Undirected
+House105,Biblioteca Tintal,Undirected
+House106,Madelena,Undirected
+House107,Transversal 86,Undirected
+House108,Portal de las Américas,Undirected
+House109,Transversal 86,Undirected
+House110,Biblioteca Tintal,Undirected
+House111,Mandalay,Undirected
+House112,Banderas,Undirected
+House113,Mandalay,Undirected
+House114,Biblioteca Tintal,Undirected
+House115,Patio Bonito,Undirected
+House116,Transversal 86,Undirected
+House117,Portal de las Américas,Undirected
+House118,Banderas,Undirected
+House119,Transversal 86,Undirected
+House120,Portal de las Américas,Undirected
+House121,Transversal 86,Undirected
+House122,Perdomo,Undirected
+House123,Biblioteca Tintal,Undirected
+House124,Transversal 86,Undirected
+House125,Transversal 86,Undirected
+House126,Modelia,Undirected
+House127,Patio Bonito,Undirected
+House128,Madelena,Undirected
+House129,Banderas,Undirected
+House130,Transversal 86,Undirected
+House131,Biblioteca Tintal,Undirected
+House132,Biblioteca Tintal,Undirected
+House133,Transversal 86,Undirected
+House134,Portal de las Américas,Undirected
+House135,Patio Bonito,Undirected
+House136,Sevillana,Undirected
+House137,Banderas,Undirected
+House138,Portal El Dorado,Undirected
+House139,Portal El Dorado,Undirected
+House140,Portal El Dorado,Undirected
+House141,Modelia,Undirected
+House142,Portal El Dorado,Undirected
+House143,Portal El Dorado,Undirected
+House144,Portal El Dorado,Undirected
+House145,Normandía,Undirected
+House146,Portal El Dorado,Undirected
+House147,Portal El Dorado,Undirected
+House148,Portal El Dorado,Undirected
+House149,Portal El Dorado,Undirected
+House150,Portal El Dorado,Undirected
+House151,Portal El Dorado,Undirected
+House152,Portal El Dorado,Undirected
+House153,Portal de la 80,Undirected
+House154,Portal de la 80,Undirected
+House155,Minuto de Dios,Undirected
+House156,Portal de la 80,Undirected
+House157,Minuto de Dios,Undirected
+House158,AV. Boyacá,Undirected
+House159,Portal El Dorado,Undirected
+House160,Portal de la 80,Undirected
+House161,Quirigua,Undirected
+House162,Quirigua,Undirected
+House163,AV. Cali,Undirected
+House164,Portal El Dorado,Undirected
+House165,Portal El Dorado,Undirected
+House166,Carrera 90,Undirected
+House167,AV. 68,Undirected
+House168,Granja - Carrera 77,Undirected
+House169,Portal de la 80,Undirected
+House170,AV. Cali,Undirected
+House171,AV. 68,Undirected
+House172,AV. Cali,Undirected
+House173,Portal de la 80,Undirected
+House174,Portal El Dorado,Undirected
+House175,Carrera 90,Undirected
+House176,Portal de la 80,Undirected
+House177,Portal El Dorado,Undirected
+House178,Portal de la 80,Undirected
+House179,Portal de la 80,Undirected
+House180,Portal de la 80,Undirected
+House181,Portal El Dorado,Undirected
+House182,Portal de la 80,Undirected
+House183,Quirigua,Undirected
+House184,Portal de la 80,Undirected
+House185,Carrera 90,Undirected
+House186,Quirigua,Undirected
+House187,Suba - TV. 91,Undirected
+House188,Terminal,Undirected
+House189,Calle 187,Undirected
+House190,Mazurén,Undirected
+House191,Portal de Suba,Undirected
+House192,Calle 187,Undirected
+House193,Portal de Suba,Undirected
+House194,Suba - AV. Boyacá,Undirected
+House195,Portal de Suba,Undirected
+House196,Terminal,Undirected
+House197,Terminal,Undirected
+House198,Portal de Suba,Undirected
+House199,Terminal,Undirected
+House200,Portal de Suba,Undirected
+House201,Terminal,Undirected
+House202,Portal de Suba,Undirected
+House203,Toberín,Undirected
+House204,21 Ángeles,Undirected
+House205,Terminal,Undirected
+House206,Terminal,Undirected
+House207,Portal de Suba,Undirected
+House208,Portal de la 80,Undirected
+House209,La Campiña,Undirected
+House210,Portal de Suba,Undirected
+House211,Portal de Suba,Undirected
+House212,Portal de Suba,Undirected
+House213,Terminal,Undirected
+House214,Portal de Suba,Undirected
+House215,Terminal,Undirected
+House216,Terminal,Undirected
+House217,Portal de Suba,Undirected
+House218,Portal de Suba,Undirected
+House219,Portal del Norte,Undirected
+House220,Calle 187,Undirected
+House221,Portal de Suba,Undirected
+House222,Portal del Norte,Undirected
+House223,La Campiña,Undirected
+House224,Calle 187,Undirected
+House225,Suba - TV. 91,Undirected
+House226,Terminal,Undirected
+House227,Terminal,Undirected
+House228,Portal de Suba,Undirected
+House229,Portal de Suba,Undirected
+House230,21 Ángeles,Undirected
+House231,21 Ángeles,Undirected
+House232,AV. Chile,Undirected
+House233,Suba - Calle 95,Undirected
+House234,Movistar Arena,Undirected
+House235,NQS - Calle 75,Undirected
+House236,AV. Chile,Undirected
+House237,Simón Bolívar,Undirected
+House238,NQS - Calle 75,Undirected
+House239,Flores,Undirected
+House240,Calle 76,Undirected
+House241,Carrera 47,Undirected
+House242,CAN,Undirected
+House243,U. Nacional,Undirected
+House244,AV. El Dorado,Undirected
+House245,Quinta Paredes,Undirected
+House246,AV. El Dorado,Undirected
+House247,Quinta Paredes,Undirected
+House248,San Fason Carrera 22,Undirected
+House249,Guatoque - Veraguas,Undirected
+House250,San Fason Carrera 22,Undirected
+House251,San Fason Carrera 22,Undirected
+House252,Fucha,Undirected
+House253,Fucha,Undirected
+House254,Nariño,Undirected
+House255,Nariño,Undirected
+House256,Nariño,Undirected
+House257,NQS - Calle 30 S,Undirected
+House258,Pradera,Undirected
+House259,Carrera 43,Undirected
+House260,Américas - Carrera 53A,Undirected
+House261,Comuneros,Undirected
+House262,SENA,Undirected
+House263,NQS - Calle 30 S,Undirected
+House264,SENA,Undirected
+House265,Santa Isabel,Undirected
+House266,Carrera 43,Undirected
+House267,Museo del Oro,Undirected
+House268,Molinos,Undirected
+House269,Quiroga,Undirected
+House270,Quiroga,Undirected
+House271,Molinos,Undirected
+House272,Quiroga,Undirected
+House273,Quiroga,Undirected
+House274,Quiroga,Undirected
+House275,Molinos,Undirected
+House276,Quiroga,Undirected
+House277,Socorro,Undirected
+House278,Molinos,Undirected
+House279,Quiroga,Undirected
+House280,Quiroga,Undirected
+House281,Molinos,Undirected
+House282,Molinos,Undirected
+House283,Portal de Usme,Undirected
+House284,Portal de Usme,Undirected
+House285,Portal de Usme,Undirected
+House286,Portal de Usme,Undirected
+House287,Portal de Usme,Undirected
+House288,Portal de Usme,Undirected
+House289,Portal de Usme,Undirected
+House290,Portal de Usme,Undirected
+House291,Portal de Usme,Undirected
+House292,Portal de Usme,Undirected
+House293,Portal de Usme,Undirected
+House294,Portal de Usme,Undirected
+House295,Portal de Usme,Undirected
+House296,Portal de Usme,Undirected
+House297,Portal de Usme,Undirected
+House298,Portal de Usme,Undirected
+House299,Portal de Usme,Undirected
+House300,Portal de Usme,Undirected
+House301,Portal de Usme,Undirected
+House302,Portal de Usme,Undirected
+House303,Portal de Usme,Undirected
+House304,Portal de Usme,Undirected
+House305,Portal del Tunal,Undirected
+House306,Portal de Usme,Undirected
+House307,Portal de Usme,Undirected
+House308,Portal de Usme,Undirected
+House309,Portal de Usme,Undirected
+School310,Portal del Norte,Undirected
+School311,Terminal,Undirected
+School312,Calle 161,Undirected
+School313,Toberín,Undirected
+School314,Calle 57,Undirected
+School315,Marly,Undirected
+School316,Universidades,Undirected
+School317,Portal 20 de Julio,Undirected
+School318,Policarpa,Undirected
+School319,Portal 20 de Julio,Undirected
+School320,Portal 20 de Julio,Undirected
+School321,Portal de Usme,Undirected
+School322,Portal de Usme,Undirected
+School323,Portal de Usme,Undirected
+School324,Portal de Usme,Undirected
+School325,Socorro,Undirected
+School326,Portal del Tunal,Undirected
+School327,Portal de las Américas,Undirected
+School328,Bosa,Undirected
+School329,Portal de las Américas,Undirected
+School330,Portal de las Américas,Undirected
+School331,La Despensa,Undirected
+School332,Mandalay,Undirected
+School333,Biblioteca Tintal,Undirected
+School334,Banderas,Undirected
+School335,Banderas,Undirected
+School336,Transversal 86,Undirected
+School337,Banderas,Undirected
+School338,Portal del Sur,Undirected
+School339,Transversal 86,Undirected
+School340,Portal del Sur,Undirected
+School341,Portal El Dorado,Undirected
+School342,Portal El Dorado,Undirected
+School343,Portal El Dorado,Undirected
+School344,Carrera 47,Undirected
+School345,Ferias,Undirected
+School346,Carrera 90,Undirected
+School347,Portal de la 80,Undirected
+School348,Quirigua,Undirected
+School349,Quirigua,Undirected
+School350,Portal de la 80,Undirected
+School351,Portal de Suba,Undirected
+School352,Terminal,Undirected
+School353,Terminal,Undirected
+School354,Portal de Suba,Undirected
+School355,Terminal,Undirected
+School356,Terminal,Undirected
+School357,Suba - TV. 91,Undirected
+School358,21 Ángeles,Undirected
+School359,AV. Cali,Undirected
+School360,Carrera 53,Undirected
+School361,Simón Bolívar,Undirected
+School362,Movistar Arena,Undirected
+School363,Gobernación,Undirected
+School364,San Fason Carrera 22,Undirected
+School365,SENA,Undirected
+School366,NQS - Calle 30 S,Undirected
+School367,Américas - Carrera 53A,Undirected
+School368,Las Aguas,Undirected
+School369,Quiroga,Undirected
+School370,Consuelo,Undirected
+School371,Olaya,Undirected
+School372,Portal de Usme,Undirected
+School373,Portal de Usme,Undirected
+School374,Portal del Tunal,Undirected
+School375,Portal del Tunal,Undirected
+School376,Portal de Usme,Undirected
+School377,Portal de Usme,Undirected
+Market378,Calle 187,Undirected
+Market379,Calle 100,Undirected
+Market380,Calle 142,Undirected
+Market381,Calle 100,Undirected
+Market382,Terminal,Undirected
+Market383,Terminal,Undirected
+Market384,Mazurén,Undirected
+Market385,AV. 39,Undirected
+Market386,Calle 57,Undirected
+Market387,Universidades,Undirected
+Market388,Las Aguas,Undirected
+Market389,Portal 20 de Julio,Undirected
+Market390,Portal 20 de Julio,Undirected
+Market391,Portal 20 de Julio,Undirected
+Market392,Portal 20 de Julio,Undirected
+Market393,Portal 20 de Julio,Undirected
+Market394,Portal 20 de Julio,Undirected
+Market395,Portal de Usme,Undirected
+Market396,Portal de Usme,Undirected
+Market397,Portal de Usme,Undirected
+Market398,Portal de Usme,Undirected
+Market399,Portal de Usme,Undirected
+Market400,Portal de Usme,Undirected
+Market401,Biblioteca,Undirected
+Market402,Consuelo,Undirected
+Market403,Parque,Undirected
+Market404,La Despensa,Undirected
+Market405,Portal de las Américas,Undirected
+Market406,Portal de las Américas,Undirected
+Market407,Bosa,Undirected
+Market408,Portal de las Américas,Undirected
+Market409,Bosa,Undirected
+Market410,Portal de las Américas,Undirected
+Market411,Portal de las Américas,Undirected
+Market412,Bosa,Undirected
+Market413,Perdomo,Undirected
+Market414,Patio Bonito,Undirected
+Market415,Modelia,Undirected
+Market416,AV. Américas - AV. Boyacá,Undirected
+Market417,Patio Bonito,Undirected
+Market418,Patio Bonito,Undirected
+Market419,Transversal 86,Undirected
+Market420,Transversal 86,Undirected
+Market421,Madelena,Undirected
+Market422,Transversal 86,Undirected
+Market423,AV. Américas - AV. Boyacá,Undirected
+Market424,Transversal 86,Undirected
+Market425,Banderas,Undirected
+Market426,Transversal 86,Undirected
+Market427,Modelia,Undirected
+Market428,Modelia,Undirected
+Market429,Modelia,Undirected
+Market430,Normandía,Undirected
+Market431,Portal El Dorado,Undirected
+Market432,Portal de la 80,Undirected
+Market433,Quirigua,Undirected
+Market434,Quirigua,Undirected
+Market435,Granja - Carrera 77,Undirected
+Market436,Portal de la 80,Undirected
+Market437,Portal El Dorado,Undirected
+Market438,Minuto de Dios,Undirected
+Market439,Quirigua,Undirected
+Market440,Portal de la 80,Undirected
+Market441,Portal de la 80,Undirected
+Market442,Portal de la 80,Undirected
+Market443,Portal de la 80,Undirected
+Market444,Portal de Suba,Undirected
+Market445,AV. Cali,Undirected
+Market446,Suba - AV. Boyacá,Undirected
+Market447,Portal de Suba,Undirected
+Market448,Granja - Carrera 77,Undirected
+Market449,Calle 187,Undirected
+Market450,21 Ángeles,Undirected
+Market451,Portal de Suba,Undirected
+Market452,Portal de Suba,Undirected
+Market453,La Campiña,Undirected
+Market454,Portal de Suba,Undirected
+Market455,Calle 146,Undirected
+Market456,Suba - TV. 91,Undirected
+Market457,La Campiña,Undirected
+Market458,La Campiña,Undirected
+Market459,Carrera 47,Undirected
+Market460,NQS - Calle 75,Undirected
+Market461,Carrera 47,Undirected
+Market462,Calle 85,Undirected
+Market463,U. Nacional,Undirected
+Market464,Recinto Ferial,Undirected
+Market465,San Fason Carrera 22,Undirected
+Market466,Ricaurte - NQS,Undirected
+Market467,Nariño,Undirected
+Market468,Restrepo,Undirected
+Market469,Zona Industrial,Undirected
+Market470,Zona Industrial,Undirected
+Market471,SENA,Undirected
+Market472,Zona Industrial,Undirected
+Market473,Bicentenario,Undirected
+Market474,Consuelo,Undirected
+Market475,Quiroga,Undirected
+Market476,Consuelo,Undirected
+Market477,Olaya,Undirected
+Market478,Quiroga,Undirected
+Market479,Portal de Usme,Undirected
+Market480,Portal de Usme,Undirected
+Market481,Portal de Usme,Undirected
+Market482,Portal de Usme,Undirected
+Market483,Portal de Usme,Undirected
+Market484,Portal de Usme,Undirected
+Market485,Portal de Usme,Undirected
+Market486,Portal de Usme,Undirected
+Market487,Portal de Usme,Undirected
+Work488,Calle 187,Undirected
+Work489,Terminal,Undirected
+Work490,Calle 187,Undirected
+Work491,Calle 161,Undirected
+Work492,Calle 106,Undirected
+Work493,Calle 106,Undirected
+Work494,Calle 127,Undirected
+Work495,Calle 161,Undirected
+Work496,Héroes,Undirected
+Work497,Calle 100,Undirected
+Work498,Flores,Undirected
+Work499,Las Aguas,Undirected
+Work500,Universidades,Undirected
+Work501,Portal 20 de Julio,Undirected
+Work502,Portal 20 de Julio,Undirected
+Work503,Portal 20 de Julio,Undirected
+Work504,Portal 20 de Julio,Undirected
+Work505,Portal 20 de Julio,Undirected
+Work506,Portal 20 de Julio,Undirected
+Work507,Portal 20 de Julio,Undirected
+Work508,Portal de Usme,Undirected
+Work509,Portal de Usme,Undirected
+Work510,Portal de Usme,Undirected
+Work511,Portal de Usme,Undirected
+Work512,Portal de Usme,Undirected
+Work513,Portal de Usme,Undirected
+Work514,Portal de Usme,Undirected
+Work515,Alquería,Undirected
+Work516,Biblioteca,Undirected
+Work517,Santa Lucía,Undirected
+Work518,Socorro,Undirected
+Work519,Portal de las Américas,Undirected
+Work520,Portal de las Américas,Undirected
+Work521,San Mateo,Undirected
+Work522,Portal de las Américas,Undirected
+Work523,Portal de las Américas,Undirected
+Work524,Portal de las Américas,Undirected
+Work525,Bosa,Undirected
+Work526,Bosa,Undirected
+Work527,Portal de las Américas,Undirected
+Work528,Portal de las Américas,Undirected
+Work529,Madelena,Undirected
+Work530,Transversal 86,Undirected
+Work531,Transversal 86,Undirected
+Work532,Perdomo,Undirected
+Work533,Transversal 86,Undirected
+Work534,Mandalay,Undirected
+Work535,Transversal 86,Undirected
+Work536,Biblioteca Tintal,Undirected
+Work537,Transversal 86,Undirected
+Work538,Portal de las Américas,Undirected
+Work539,Banderas,Undirected
+Work540,Transversal 86,Undirected
+Work541,Transversal 86,Undirected
+Work542,Patio Bonito,Undirected
+Work543,Banderas,Undirected
+Work544,Transversal 86,Undirected
+Work545,Banderas,Undirected
+Work546,Portal El Dorado,Undirected
+Work547,Portal El Dorado,Undirected
+Work548,Portal El Dorado,Undirected
+Work549,Portal El Dorado,Undirected
+Work550,Portal El Dorado,Undirected
+Work551,Portal El Dorado,Undirected
+Work552,Portal El Dorado,Undirected
+Work553,Carrera 90,Undirected
+Work554,Portal de la 80,Undirected
+Work555,Quirigua,Undirected
+Work556,Quirigua,Undirected
+Work557,Granja - Carrera 77,Undirected
+Work558,Portal de la 80,Undirected
+Work559,Granja - Carrera 77,Undirected
+Work560,Portal El Dorado,Undirected
+Work561,AV. Cali,Undirected
+Work562,Quirigua,Undirected
+Work563,AV. Boyacá,Undirected
+Work564,Quirigua,Undirected
+Work565,Quirigua,Undirected
+Work566,Terminal,Undirected
+Work567,La Campiña,Undirected
+Work568,Toberín,Undirected
+Work569,Gratamira,Undirected
+Work570,Terminal,Undirected
+Work571,21 Ángeles,Undirected
+Work572,Gratamira,Undirected
+Work573,Portal de Suba,Undirected
+Work574,Terminal,Undirected
+Work575,21 Ángeles,Undirected
+Work576,Terminal,Undirected
+Work577,Gratamira,Undirected
+Work578,Portal de Suba,Undirected
+Work579,Terminal,Undirected
+Work580,Gratamira,Undirected
+Work581,Terminal,Undirected
+Work582,Granja - Carrera 77,Undirected
+Work583,Terminal,Undirected
+Work584,AV. 68,Undirected
+Work585,AV. Chile,Undirected
+Work586,AV. Chile,Undirected
+Work587,Calle 72,Undirected
+Work588,Gobernación,Undirected
+Work589,U. Nacional,Undirected
+Work590,Centro Memoria,Undirected
+Work591,San Fason Carrera 22,Undirected
+Work592,Tygua - San José,Undirected
+Work593,Fucha,Undirected
+Work594,Nariño,Undirected
+Work595,Carrera 43,Undirected
+Work596,Américas - Carrera 53A,Undirected
+Work597,Carrera 43,Undirected
+Work598,Pradera,Undirected
+Work599,Museo del Oro,Undirected
+Work600,Olaya,Undirected
+Work601,Socorro,Undirected
+Work602,Molinos,Undirected
+Work603,Molinos,Undirected
+Work604,Molinos,Undirected
+Work605,Portal 20 de Julio,Undirected
+Work606,Portal de Usme,Undirected
+Work607,Portal de Usme,Undirected
+Work608,Portal de Usme,Undirected
+Work609,Portal de Usme,Undirected
+Work610,Portal de Usme,Undirected
+Work611,Portal de Usme,Undirected
+Work612,Portal de Usme,Undirected
+Work613,Portal de Usme,Undirected
+Work614,Portal de Usme,Undirected
+Work615,Portal de Usme,Undirected
+Work616,Portal del Tunal,Undirected
+Terminal617,Portal El Dorado,Undirected
+Terminal618,AV. Rojas,Undirected

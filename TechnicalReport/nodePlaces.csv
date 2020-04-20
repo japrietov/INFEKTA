@@ -1,0 +1,768 @@
+Id,Type
+House1,H
+House2,H
+House3,H
+House4,H
+House5,H
+House6,H
+House7,H
+House8,H
+House9,H
+House10,H
+House11,H
+House12,H
+House13,H
+House14,H
+House15,H
+House16,H
+House17,H
+House18,H
+House19,H
+House20,H
+House21,H
+House22,H
+House23,H
+House24,H
+House25,H
+House26,H
+House27,H
+House28,H
+House29,H
+House30,H
+House31,H
+House32,H
+House33,H
+House34,H
+House35,H
+House36,H
+House37,H
+House38,H
+House39,H
+House40,H
+House41,H
+House42,H
+House43,H
+House44,H
+House45,H
+House46,H
+House47,H
+House48,H
+House49,H
+House50,H
+House51,H
+House52,H
+House53,H
+House54,H
+House55,H
+House56,H
+House57,H
+House58,H
+House59,H
+House60,H
+House61,H
+House62,H
+House63,H
+House64,H
+House65,H
+House66,H
+House67,H
+House68,H
+House69,H
+House70,H
+House71,H
+House72,H
+House73,H
+House74,H
+House75,H
+House76,H
+House77,H
+House78,H
+House79,H
+House80,H
+House81,H
+House82,H
+House83,H
+House84,H
+House85,H
+House86,H
+House87,H
+House88,H
+House89,H
+House90,H
+House91,H
+House92,H
+House93,H
+House94,H
+House95,H
+House96,H
+House97,H
+House98,H
+House99,H
+House100,H
+House101,H
+House102,H
+House103,H
+House104,H
+House105,H
+House106,H
+House107,H
+House108,H
+House109,H
+House110,H
+House111,H
+House112,H
+House113,H
+House114,H
+House115,H
+House116,H
+House117,H
+House118,H
+House119,H
+House120,H
+House121,H
+House122,H
+House123,H
+House124,H
+House125,H
+House126,H
+House127,H
+House128,H
+House129,H
+House130,H
+House131,H
+House132,H
+House133,H
+House134,H
+House135,H
+House136,H
+House137,H
+House138,H
+House139,H
+House140,H
+House141,H
+House142,H
+House143,H
+House144,H
+House145,H
+House146,H
+House147,H
+House148,H
+House149,H
+House150,H
+House151,H
+House152,H
+House153,H
+House154,H
+House155,H
+House156,H
+House157,H
+House158,H
+House159,H
+House160,H
+House161,H
+House162,H
+House163,H
+House164,H
+House165,H
+House166,H
+House167,H
+House168,H
+House169,H
+House170,H
+House171,H
+House172,H
+House173,H
+House174,H
+House175,H
+House176,H
+House177,H
+House178,H
+House179,H
+House180,H
+House181,H
+House182,H
+House183,H
+House184,H
+House185,H
+House186,H
+House187,H
+House188,H
+House189,H
+House190,H
+House191,H
+House192,H
+House193,H
+House194,H
+House195,H
+House196,H
+House197,H
+House198,H
+House199,H
+House200,H
+House201,H
+House202,H
+House203,H
+House204,H
+House205,H
+House206,H
+House207,H
+House208,H
+House209,H
+House210,H
+House211,H
+House212,H
+House213,H
+House214,H
+House215,H
+House216,H
+House217,H
+House218,H
+House219,H
+House220,H
+House221,H
+House222,H
+House223,H
+House224,H
+House225,H
+House226,H
+House227,H
+House228,H
+House229,H
+House230,H
+House231,H
+House232,H
+House233,H
+House234,H
+House235,H
+House236,H
+House237,H
+House238,H
+House239,H
+House240,H
+House241,H
+House242,H
+House243,H
+House244,H
+House245,H
+House246,H
+House247,H
+House248,H
+House249,H
+House250,H
+House251,H
+House252,H
+House253,H
+House254,H
+House255,H
+House256,H
+House257,H
+House258,H
+House259,H
+House260,H
+House261,H
+House262,H
+House263,H
+House264,H
+House265,H
+House266,H
+House267,H
+House268,H
+House269,H
+House270,H
+House271,H
+House272,H
+House273,H
+House274,H
+House275,H
+House276,H
+House277,H
+House278,H
+House279,H
+House280,H
+House281,H
+House282,H
+House283,H
+House284,H
+House285,H
+House286,H
+House287,H
+House288,H
+House289,H
+House290,H
+House291,H
+House292,H
+House293,H
+House294,H
+House295,H
+House296,H
+House297,H
+House298,H
+House299,H
+House300,H
+House301,H
+House302,H
+House303,H
+House304,H
+House305,H
+House306,H
+House307,H
+House308,H
+House309,H
+School310,S
+School311,S
+School312,S
+School313,S
+School314,S
+School315,S
+School316,S
+School317,S
+School318,S
+School319,S
+School320,S
+School321,S
+School322,S
+School323,S
+School324,S
+School325,S
+School326,S
+School327,S
+School328,S
+School329,S
+School330,S
+School331,S
+School332,S
+School333,S
+School334,S
+School335,S
+School336,S
+School337,S
+School338,S
+School339,S
+School340,S
+School341,S
+School342,S
+School343,S
+School344,S
+School345,S
+School346,S
+School347,S
+School348,S
+School349,S
+School350,S
+School351,S
+School352,S
+School353,S
+School354,S
+School355,S
+School356,S
+School357,S
+School358,S
+School359,S
+School360,S
+School361,S
+School362,S
+School363,S
+School364,S
+School365,S
+School366,S
+School367,S
+School368,S
+School369,S
+School370,S
+School371,S
+School372,S
+School373,S
+School374,S
+School375,S
+School376,S
+School377,S
+Market378,M
+Market379,M
+Market380,M
+Market381,M
+Market382,M
+Market383,M
+Market384,M
+Market385,M
+Market386,M
+Market387,M
+Market388,M
+Market389,M
+Market390,M
+Market391,M
+Market392,M
+Market393,M
+Market394,M
+Market395,M
+Market396,M
+Market397,M
+Market398,M
+Market399,M
+Market400,M
+Market401,M
+Market402,M
+Market403,M
+Market404,M
+Market405,M
+Market406,M
+Market407,M
+Market408,M
+Market409,M
+Market410,M
+Market411,M
+Market412,M
+Market413,M
+Market414,M
+Market415,M
+Market416,M
+Market417,M
+Market418,M
+Market419,M
+Market420,M
+Market421,M
+Market422,M
+Market423,M
+Market424,M
+Market425,M
+Market426,M
+Market427,M
+Market428,M
+Market429,M
+Market430,M
+Market431,M
+Market432,M
+Market433,M
+Market434,M
+Market435,M
+Market436,M
+Market437,M
+Market438,M
+Market439,M
+Market440,M
+Market441,M
+Market442,M
+Market443,M
+Market444,M
+Market445,M
+Market446,M
+Market447,M
+Market448,M
+Market449,M
+Market450,M
+Market451,M
+Market452,M
+Market453,M
+Market454,M
+Market455,M
+Market456,M
+Market457,M
+Market458,M
+Market459,M
+Market460,M
+Market461,M
+Market462,M
+Market463,M
+Market464,M
+Market465,M
+Market466,M
+Market467,M
+Market468,M
+Market469,M
+Market470,M
+Market471,M
+Market472,M
+Market473,M
+Market474,M
+Market475,M
+Market476,M
+Market477,M
+Market478,M
+Market479,M
+Market480,M
+Market481,M
+Market482,M
+Market483,M
+Market484,M
+Market485,M
+Market486,M
+Market487,M
+Work488,W
+Work489,W
+Work490,W
+Work491,W
+Work492,W
+Work493,W
+Work494,W
+Work495,W
+Work496,W
+Work497,W
+Work498,W
+Work499,W
+Work500,W
+Work501,W
+Work502,W
+Work503,W
+Work504,W
+Work505,W
+Work506,W
+Work507,W
+Work508,W
+Work509,W
+Work510,W
+Work511,W
+Work512,W
+Work513,W
+Work514,W
+Work515,W
+Work516,W
+Work517,W
+Work518,W
+Work519,W
+Work520,W
+Work521,W
+Work522,W
+Work523,W
+Work524,W
+Work525,W
+Work526,W
+Work527,W
+Work528,W
+Work529,W
+Work530,W
+Work531,W
+Work532,W
+Work533,W
+Work534,W
+Work535,W
+Work536,W
+Work537,W
+Work538,W
+Work539,W
+Work540,W
+Work541,W
+Work542,W
+Work543,W
+Work544,W
+Work545,W
+Work546,W
+Work547,W
+Work548,W
+Work549,W
+Work550,W
+Work551,W
+Work552,W
+Work553,W
+Work554,W
+Work555,W
+Work556,W
+Work557,W
+Work558,W
+Work559,W
+Work560,W
+Work561,W
+Work562,W
+Work563,W
+Work564,W
+Work565,W
+Work566,W
+Work567,W
+Work568,W
+Work569,W
+Work570,W
+Work571,W
+Work572,W
+Work573,W
+Work574,W
+Work575,W
+Work576,W
+Work577,W
+Work578,W
+Work579,W
+Work580,W
+Work581,W
+Work582,W
+Work583,W
+Work584,W
+Work585,W
+Work586,W
+Work587,W
+Work588,W
+Work589,W
+Work590,W
+Work591,W
+Work592,W
+Work593,W
+Work594,W
+Work595,W
+Work596,W
+Work597,W
+Work598,W
+Work599,W
+Work600,W
+Work601,W
+Work602,W
+Work603,W
+Work604,W
+Work605,W
+Work606,W
+Work607,W
+Work608,W
+Work609,W
+Work610,W
+Work611,W
+Work612,W
+Work613,W
+Work614,W
+Work615,W
+Work616,W
+Terminal617,T
+Terminal618,T
+AV. Cali,B
+Venecia,B
+Carrera 53,B
+Simón Bolívar,B
+Portal de la 80,B
+Marly,B
+Calle 63,B
+SENA,B
+Portal del Sur,B
+Ricaurte - NQS,B
+Alcalá,B
+AV. 68,B
+Calle 187,B
+Salitre - El Greco,B
+Héroes,B
+Las Aguas,B
+Museo del Oro,B
+Polo,B
+Calle 34,B
+Alquería,B
+Nariño,B
+Puentelargo,B
+Calle 100,B
+Biblioteca Tintal,B
+Suba - TV. 91,B
+Calle 40 S,B
+Madelena,B
+Flores,B
+Calle 57,B
+Modelia,B
+Calle 26,B
+Perdomo,B
+AV. Chile,B
+Gobernación,B
+Restrepo,B
+El Tiempo - Maloka,B
+Hortúa,B
+CDS - Carrera 32,B
+AV. Jiménez - CL 13,B
+Patio Bonito,B
+Suba - Calle 116,B
+Normandía,B
+Recinto Ferial,B
+NQS - Calle 30 S,B
+Suba - AV. Boyacá,B
+Escuela Militar,B
+Zona Industrial,B
+Santa Lucía,B
+Toberín,B
+San Martín,B
+La Castellana,B
+Comuneros,B
+Calle 161,B
+Campín,B
+CAN,B
+Portal de Suba,B
+Fucha,B
+Guatoque - Veraguas,B
+Tygua - San José,B
+Rionegro,B
+Molinos,B
+AV. Américas - AV. Boyacá,B
+Terreros - Hospital C.V,B
+Leon XIII,B
+Ricaurte - CL 13,B
+San Bernardo,B
+Portal El Dorado,B
+Parque,B
+Quirigua,B
+Consuelo,B
+Sevillana,B
+San Mateo,B
+AV. Jiménez - Caracas,B
+Calle 22,B
+Ciudad Universitaria,B
+San Fason Carrera 22,B
+AV. 39,B
+Movistar Arena,B
+Suba - Calle 100,B
+Tercer Milenio,B
+Pradera,B
+Quiroga,B
+De La Sabana,B
+AV. Rojas,B
+AV. Boyacá,B
+Ferias,B
+Gratamira,B
+Niza - Calle 127,B
+Socorro,B
+AV. 1 Mayo,B
+Bicentenario,B
+Américas - Carrera 53A,B
+Country Sur,B
+NQS - Calle 38A S,B
+Biblioteca,B
+21 Ángeles,B
+Centro Memoria,B
+Marsella,B
+Carrera 43,B
+Las Nieves,B
+San Diego,B
+Transversal 86,B
+Concejo de Bogotá,B
+Universidades,B
+Calle 127,B
+La Despensa,B
+Suba - Calle 95,B
+Hospital,B
+Mandalay,B
+Museo Nacional,B
+Portal 20 de Julio,B
+Puente Aranda,B
+San Victorino,B
+Ciudad Jardín,B
+Policarpa,B
+Bosa,B
+Pepe Sierra,B
+CAD,B
+Virrey,B
+Calle 72,B
+Terminal,B
+Olaya,B
+Calle 76,B
+Calle 106,B
+AV. El Dorado,B
+Mazurén,B
+Calle 85,B
+U. Nacional,B
+Calle 142,B
+NQS - Calle 75,B
+Prado,B
+Banderas,B
+Minuto de Dios,B
+La Campiña,B
+Calle 45,B
+General Santander,B
+Carrera 90,B
+Portal del Norte,B
+Carrera 47,B
+Santa Isabel,B
+Calle 146,B
+Paloquemao,B
+Portal del Tunal,B
+Granja - Carrera 77,B
+Portal de las Américas,B
+Quinta Paredes,B
+Calle 19,B
+Portal de Usme,B
+Humedal Córdoba,B
