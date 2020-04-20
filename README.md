@@ -1,5 +1,5 @@
 # INFEKTA
-**A General Agent-based Model for Transmission of Infectious Diseases:  
+**A General Agent-based Model for Transmission of Infectious Diseases: 
 Studying the COVID-19 Propagation in Bogotá - Colombia**
 
 INFEKTA models the disease transition at the person level and takes 
