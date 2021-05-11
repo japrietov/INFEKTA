@@ -1,13 +1,10 @@
 # INFEKTA
-**A General Agent-based Model for Transmission of Infectious Diseases: 
-Studying the COVID-19 Propagation in Bogotá - Colombia**
+**INFEKTA—An agent-based model for transmission of infectious diseases: 
+The COVID-19 case in Bogotá, Colombia.**
 
-INFEKTA models the disease transition at the person level and takes 
-into consideration individual infection disease incubation periods and evolution, 
-medical preconditions, age, daily routines (movements from house to destination places and back, 
-including transportation medium if required), and enforced social separation policies. 
+INFEKTA combines the transmission dynamic of a specific disease, (according to parameters found in the literature) with demographic information (population density, age, and genre of individuals) of geopolitical regions of the real town or city under study. Agents (virtual persons) can move, according to its mobility routines and the enforced social distancing policy, on a complex network of accessible places defined over a Euclidean space representing the town or city. The transmission dynamics of the COVID-19 under different social distancing policies in Bogotá city, the capital of Colombia, is simulated using INFEKTA with one million virtual persons.
   
-[![Foo](Simulator/simulator.png)](https://cloud.anylogic.com/model/9806d370-f0a8-48d1-b3e1-3537721b39ba?mode=SETTINGS)
+[![Foo]("Model And Results/simulator.png")](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245787)
 
 ## Directories
 - Simulator Anylogic: contains the simulation project file (Anylogic 8.X). This project is currently running
