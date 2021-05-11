@@ -4,7 +4,7 @@ The COVID-19 case in Bogotá, Colombia.**
 
 INFEKTA combines the transmission dynamic of a specific disease, (according to parameters found in the literature) with demographic information (population density, age, and genre of individuals) of geopolitical regions of the real town or city under study. Agents (virtual persons) can move, according to its mobility routines and the enforced social distancing policy, on a complex network of accessible places defined over a Euclidean space representing the town or city. The transmission dynamics of the COVID-19 under different social distancing policies in Bogotá city, the capital of Colombia, is simulated using INFEKTA with one million virtual persons.
   
-[![Foo]("Model And Results/Fig1.png")](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245787)
+[![Foo](Model/Fig1.png)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245787)
 
 ## Directories
 - Simulator Anylogic: contains the simulation project file (Anylogic 8.X). This project is currently running
